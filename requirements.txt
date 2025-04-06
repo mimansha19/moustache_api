@@ -1,0 +1,6 @@
+Flask
+geopy
+fuzzywuzzy
+python-Levenshtein
+pytest
+requests
