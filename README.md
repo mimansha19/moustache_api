@@ -70,3 +70,8 @@ pytest test_api.py -v
 ```
     python3 app.py
 ```
+
+### Answers of the questions asked in mail :
+'''
+    https://docs.google.com/document/d/1Lu__agjYk6R0Y3kRyZkRzlegUaPCmIGiCBr6VfYYqdU/edit?usp=sharing
+'''
